@@ -1,0 +1,4 @@
+https://www.npmjs.com/package/nodemon
+
+https://expressjs.com/pt-br/starter/generator.html
+
